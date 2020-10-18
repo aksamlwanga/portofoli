@@ -37,9 +37,7 @@ export default function Header() {
                                         >
                                     </li>
                                     <li>
-                                        <a href="/about"
-                                        ><span>About</span></a
-                                        >
+                                        <Link to="/about">About</Link> 
                                     </li>
                                     <li>
                                         <a href="/contact"
